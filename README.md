@@ -1,2 +1,3 @@
 # Snake
-Simple version of snake game(Have to complete)
+Simple version of snake game just for fun
+(have to complete)
